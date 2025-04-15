@@ -34,7 +34,7 @@ nascimento, e não adianta perguntar para um bebê que nome ele quer ter,
 adianta?*
 <center>
 
-![capa do livro As estripulias de Biba, Pedro e Zeca](./assets/capa-estripulias-de-biba-pedro-zeca.jpg)
+![capa do livro As estripulias de Biba, Pedro e Zeca](./assets/capa_estripulias_de_biba_pedro_zeca.jpg)
 
 </center>
 

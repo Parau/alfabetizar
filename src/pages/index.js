@@ -13,7 +13,7 @@ const features = [
     link: '/docs',
     description: (
       <>
-        Acesse aqui o <i>PowerBook</i> utilizado no workshop A IMPORTÂNCIA DO NOME NA ALFABETIZAÇÃO.
+        Acesse aqui o <i>Guia</i> A Importância do Nome na Alfabetização.
       </>
     ),
   }/*,
