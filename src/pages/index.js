@@ -16,7 +16,7 @@ const features = [
         Acesse aqui o <i>PowerBook</i> utilizado no workshop A IMPORTÂNCIA DO NOME NA ALFABETIZAÇÃO.
       </>
     ),
-  },
+  }/*,
   {
     title: 'Focus on What Matters',
     imageUrl: 'img/capa-workshop-ferramentas-facilitar-uso-o-nome-da-gente.jpg',
@@ -36,7 +36,7 @@ const features = [
         Acesse aqui o <i>PowerBook</i> Proposta de atividades usando LENGA-LENGAS.
       </>
     ),
-  },
+  },*/
 ];
 
 function Feature({imageUrl, title, description, link}) {
@@ -66,17 +66,6 @@ function Home() {
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
-          <div className={styles.buttons}>
-            <Link
-              className={clsx(
-                'button button--outline button--secondary button--lg',
-                styles.getStarted,
-              )}
-              to={useBaseUrl('docs/')}>
-              Acesse o material do WORKSHOP
-            </Link>
-          </div>
         </div>
       </header>
       <main>
