@@ -36,34 +36,47 @@ Leitura
  * Personalização do livro infantil O NOME DA GENTE.
 
 ## Preparação 
-* Acessar a página [https://d5a10.editora.digital/especial/nome-alfabetizacao](https://d5a10.editora.digital/especial/nome-alfabetizacao) para a leitura do texto MEU NOME, MINHA IDENTIDADE.
-* Experimentar o formulário de personalização do livro, que vem logo após o texto.
+* Acessar a página [https://criatividade.digital/blog/dnli/meu-nome-minha-identidade/](https://criatividade.digital/blog/dnli/meu-nome-minha-identidade/) para a leitura do texto MEU NOME, MINHA IDENTIDADE.
+* Conhecer o formulário de personalização do livro, que vem logo após o texto.
  * Selecionar a lista de emails dos pais da sua turma.
 
 ## Como fazer
-Depois de ter lido o material sobre alfabetização e testar o formulário, envie a atividade por e-mail aos pais, indicando o link que você viu no tópico **Preparação** e explicando a proposta de atividade de personalização e leitura compartilhada. 
+Depois de ler o texto [MEU NOME, MINHA IDENTIDADE](https://criatividade.digital/blog/dnli/meu-nome-minha-identidade/) e experimentar o funcionamento do formulário disponível ao final da página, você estará pronto para iniciar a atividade.
 
-Abaixo uma sugestão de como você pode estruturar o seu e-mail:
- * Se for enviar a mesma atividade para mais de um email, é importante abrir o campo Cco (Cópia Oculta) e colar os endereços de email dos pais para evitar a exposição dos demais.
- * No Assunto do email você pode escrever: Atividade especial de personalização e leitura compartilhada do livro O NOME DA GENTE. 
+A proposta é simples: os pais ou responsáveis irão gerar um livro digital personalizado para seus filhos e realizar uma leitura compartilhada em casa. O próprio texto *Meu nome, minha identidade* já apresenta o contexto da atividade e oferece o formulário para criação do livro, o que facilita bastante o processo.
+
+Sendo assim, sua principal tarefa será enviar um e-mail aos responsáveis explicando que a ideia é realizar uma leitura em família com o livro gerado.
+
+**Dicas para o envio do e-mail:**
+- Se for enviar para várias famílias, lembre-se de usar o campo Cco (Cópia Oculta) para proteger a privacidade dos e-mails.
+- Como sugestão de assunto do e-mail, você pode usar: *Atividade especial: leitura compartilhada do livro "O NOME DA GENTE"*
+
 
 Se quiser, copie ou tome como base o exemplo de texto abaixo para a mensagem do seu e-mail:
 
+
+
+
+
 ```
-Olá, famílias! Espero que estejam todos bem! 😉
+Olá, famílias! Tudo bem?
 
-Vocês sabem qual a importância do nome próprio na alfabetização das crianças? O nome próprio é um importante elemento trabalhado na Educação Infantil e nos primeiros anos do EF - Anos Iniciais. Ele é uma referência estável para a criança e é confortável para ela reconhecê-lo dentro do contexto onde está inserida. Unindo esse elemento com a leitura colaboramos com a aprendizagem da criança em processo de alfabetização. 
+Gostaria de compartilhar com vocês uma proposta especial que une leitura, afeto e o processo de alfabetização das crianças.
 
-Por isso, aproveitei esse período de quarentena para enviar uma atividade especial para fazerem em família! A sugestão é a personalização da versão digital do livro O NOME DA GENTE (com o nome do seu filho) e a leitura compartilhada da história! Além de colaborar com o processo de alfabetização, essa atividade ainda fortalece os vínculos afetivos por meio da leitura em família!
+O nome próprio é um elemento muito significativo na vida escolar dos pequenos. Ele ajuda na construção da identidade, na familiarização com as letras e palavras, e se torna uma excelente porta de entrada para o mundo da leitura e da escrita.
 
-COMO FAZER
+Pensando nisso, convidamos vocês para uma atividade de leitura em família com o livro digital O NOME DA GENTE, uma história personalizada com o nome do seu filho ou filha. A proposta é simples e afetuosa: gerar o livro com o nome da criança e realizar a leitura juntos em casa, fortalecendo os vínculos familiares e estimulando a aprendizagem de forma lúdica.
 
-Para poder gerar o livro para seu filho, vocês devem acessar e ler o material MEU NOME, MINHA IDENTIDADE. Ao final do texto, vocês irão encontrar o link de acesso ao gerador do livro digital O NOME DA GENTE e personalizar o livro com o nome do seu filho para fazer a leitura juntos! 
+Como participar:
+Acesse o texto MEU NOME, MINHA IDENTIDADE (https://criatividade.digital/blog/dnli/meu-nome-minha-identidade/), que apresenta o contexto da proposta.
 
-O material pode ser acessado neste link: https://d5a10.editora.digital/especial/nome-alfabetizacao. É importante a leitura do texto para executar a personalização do livro digital.
+Ao final do texto, você encontrará um formulário para gerar o livro digital personalizado.
 
-Espero que gostem dessa atividade que divido com vocês com muito carinho!
+Preencha com o nome da criança e pronto! O livro estará disponível para ser lido em família.
 
-Um abraço
+É uma atividade simples, significativa e cheia de carinho — e esperamos que ela renda bons momentos juntos!
+
+Um abraço,
+[Seu nome]
 
 ```
