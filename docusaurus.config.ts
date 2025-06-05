@@ -9,7 +9,7 @@ const config: Config = {
   tagline: 'Participou do WORKSHOP A Importância do Nome na Alfabetização?',
   url: 'https://criatividade.digital',
   baseUrl: '/alfabetizar/',
-  //trailingSlash: true,
+  trailingSlash: true,
   onBrokenLinks: 'warn', //com a inclusão do trailingSlash para funcionar a indexação do google ele passa a dar erro nos links
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
