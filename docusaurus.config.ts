@@ -9,6 +9,7 @@ const config: Config = {
   tagline: 'Participou do WORKSHOP A Importância do Nome na Alfabetização?',
   url: 'https://criatividade.digital',
   baseUrl: '/alfabetizar/',
+  trailingSlash: true,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
