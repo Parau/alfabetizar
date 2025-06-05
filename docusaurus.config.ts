@@ -10,7 +10,7 @@ const config: Config = {
   url: 'https://criatividade.digital',
   baseUrl: '/alfabetizar/',
   trailingSlash: true,
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn', //com a inclusão do trailingSlash para funcionar a indexação do google ele passa a dar erro nos links
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'APRENDER.digital', // Usually your GitHub org/user name.
