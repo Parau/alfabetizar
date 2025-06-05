@@ -9,8 +9,8 @@ const config: Config = {
   tagline: 'Participou do WORKSHOP A Importância do Nome na Alfabetização?',
   url: 'https://criatividade.digital',
   baseUrl: '/alfabetizar/',
-  trailingSlash: true,
-  onBrokenLinks: 'warn', //com a inclusão do trailingSlash para funcionar a indexação do google ele passa a dar erro nos links
+  //trailingSlash: true, //tentei usar isso para resolver o problema de indexação do google, mas não funcionou. A página funcionava local mas não dentro do github pages
+  //onBrokenLinks: 'warn', //com a inclusão do trailingSlash para funcionar a indexação do google ele passa a dar erro nos links
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'APRENDER.digital', // Usually your GitHub org/user name.

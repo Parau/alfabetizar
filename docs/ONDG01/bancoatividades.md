@@ -22,7 +22,7 @@ Atividade bastante difundida que pede aos alunos conversarem com seus pais sobre
 Depois disso, em uma roda de conversa, os alunos compartilham as origens e histórias dos seus nomes.
 
 ## Que nome eu escolheria?
-Esta atividade tem como base uma proposta presente no material [Pró Letramento - Alfabetização e Linguagem - fascículo 1](http://portal.mec.gov.br/seb/arquivos/pdf/Proletr/fasciculo_port.pdf) (p. 28). Nele é apresentado o relato da professora Cleusa que, depois de trabalhar o poema [Nome da gente](../textosmusicas), muitos alunos questionaram sobre a escolha do nome. Isso levou a professora a uma nova leitura com os alunos:
+Esta atividade tem como base uma proposta presente no material [Pró Letramento - Alfabetização e Linguagem - fascículo 1](http://portal.mec.gov.br/seb/arquivos/pdf/Proletr/fasciculo_port.pdf) (p. 28). Nele é apresentado o relato da professora Cleusa que, depois de trabalhar o poema [Nome da gente](textosmusicas), muitos alunos questionaram sobre a escolha do nome. Isso levou a professora a uma nova leitura com os alunos:
 
 :::note As estripulias de Biba, Pedro e Zeca
 *Por que a gente não pode escolher o próprio nome?
