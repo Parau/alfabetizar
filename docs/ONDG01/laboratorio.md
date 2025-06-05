@@ -61,7 +61,7 @@ Para a realização desta aula consideramos importante que os alunos já possuam
 * Depois que os alunos encontrarem seus lugares, oriente-os a escrever o nome deles dentro da caixa de texto da tela, da maneira como está escrito no cartão.
 * Ajude-os a escolher, na tela, a opção **dela** ou **dele**. A opção **o nome dele** gerará a história para o gênero masculino e opção **o nome dela** para o gênero feminino. Veja a imagem abaixo: ![página inicial para geração do livro digital o nome da gente](./assets/pagina-inicia-o-nome-da-gente.jpg)
 * Depois de escrito o nome na caixa de texto, oriente-os a clicarem no botão verde para **gerar o livro**.
-* Peça para folhearem o livro, clicando no canto inferior de cada página ou utilizando as setas à **esquerda** e à **direita**. Para saber a funcionalidade dos botões do livro digital [clique aqui](versaodigital#navegação-do-livro).
+* Peça para folhearem o livro, clicando no canto inferior de cada página ou utilizando as setas à **esquerda** e à **direita**. Para saber a funcionalidade dos botões do livro digital [clique aqui](../versaodigital#navegação-do-livro).
 * Estimule os alunos à leitura da história, seja por meio dos textos e/ou imagens.
 * Pergunte o que eles viram de diferente ou familiar na história.
 * Pergunte a eles quantas vezes o nome próprio aparece no livro.
