@@ -17,6 +17,7 @@
   "dependencies": {
     "@docusaurus/core": "3.7.0",
     "@docusaurus/plugin-google-gtag": "^3.7.0",
+    "@docusaurus/plugin-google-tag-manager": "^3.8.1",
     "@docusaurus/preset-classic": "3.7.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.34",
     "@fortawesome/free-brands-svg-icons": "^5.15.2",
