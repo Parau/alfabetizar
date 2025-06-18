@@ -40,8 +40,9 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: 'LENGA-LENGA',
       items: ['lenga-lenga/apresentacao', 'lenga-lenga/tipos',
+              'lenga-lenga/testando',
               'lenga-lenga/atividade1', 'lenga-lenga/atividade2', 
-              'lenga-lenga/atividade3', 'lenga-lenga/ei', 
+              'lenga-lenga/ei', 
               'lenga-lenga/rimas', 
               'lenga-lenga/amenina', 'lenga-lenga/capivara'
              ],

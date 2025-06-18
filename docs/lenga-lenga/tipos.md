@@ -6,11 +6,11 @@ sidebar_label: Tipos
 import ReactPlayer from 'react-player/youtube'
 
 ## Lenga-lenga
-No dicionário encontramos a definição de **lenga-lenga** como sendo algo *extenso, entediante, enfadonho* ou mesmo como *enrolação*.
+No dicionário, **lenga-lenga** é definida como algo **extenso, entediante, enfadonho** — ou até mesmo como **enrolação**.
 
-No contexto deste livro, **lenga-lenga** é um texto que usa e abusa das rimas e das repetições. Esta característica atrai as crianças menores, pois durante uma contação de história ou leitura, as crianças são capazes de antecipar os acontecimentos.
+Mas no contexto deste guia, **lenga-lenga** é um tipo de texto que explora intensamente as rimas e as repetições. Essas características encantam especialmente as crianças menores, pois durante uma leitura ou contação de história, elas conseguem antecipar os acontecimentos e participar ativamente.
 
-A repetição e as rimas, características de uma lenga-lenga, favorecem a compreensão e a memorização, facilitando uma leitura autônoma.
+A presença de repetições e rimas favorece a compreensão, a memorização e, consequentemente, estimula uma leitura mais autônoma e prazerosa.
 
 Observe no vídeo do grupo **Tiqueqê** 👇 o que poderia chamar de *um clássico* da lenga-lenga. 😉
 
@@ -64,7 +64,7 @@ Observe na imagem 👇 a **repetição** no *Bruxa, Bruxa venha à minha festa*.
 ![Capa do workshop A Importância do Nome na Alfabetização](./assets/bruxa-bruxa-venha-a-minha-festa-exemplo.jpg)
 
 ## Acumulação
-Neste tipo de história surgem (ou se acumulam) personagens que buscam resolver o problema desencadeado pela narrativa.
+São histórias em que personagens, objetos ou ações se acumulam progressivamente, crescendo em número ou intensidade a cada nova passagem.
 
 Dois exemplos de livros com a estrutura de repetição acumulativa.
   * **E o dente ainda doía**<br />
@@ -72,6 +72,11 @@ Dois exemplos de livros com a estrutura de repetição acumulativa.
   * **A casa sonolenta**<br />
     de Audrey Wood, ilustrado por Don Wood.
     São Paulo: Editora Ática, 2005.
+
+No livro *A menina que não comia nada*, eu brinco com esse formato, começando com uma “redução” antes de iniciar a acumulação.
+  * **A menina que não comia nada**<br />
+    de Parahuari Branco.
+    Editora eTrix, 2025.
 
 ## Tangolomangos
 História em que os personagens vão diminuindo devido aos eventos desencadeados pela narrativa.
@@ -114,13 +119,4 @@ Deu tangolomango nela e acabou a geração.
 
 <br />
 
-É possível encontrar variações inspiradas no tangolomango das **Nove irmãs** como este aqui gravado pela Mariane Bigio (parceria e Milla Bigio e Diego Santos) que propõe um *"final feliz"*. 🙂 É o [tangolomango dos **coelinhos**](https://youtu.be/fqEPQe4aqmE). O livro **Chá das dez** escrito por Celso Sisto também se inspira nos tangolomangos, mas também se preocupa em proporcionar um *final feliz*. 
-
-## Mistos
-Não é bem uma classificação, mas as repetições, rimas, acumulações ou desacumulações (estilo tangolomango) servem de inspiração para histórias escritas ou cantadas. O recurso pode caracterizar todo o conto, por exemplo, ou inspirar apenas uma parte dele.
-
-Para comemorar o Dia Nacional do Livro Infatil deste ano (2021) resolvi me aventurar nas lenga-lengas e produzi estes **dois livros**. 👇 Desta vez, buscando uma imersão completa, 😱 eu mesmo escrevi, ilustrei e diagramei os livros. São eles:
-
-  * [A menina que não comia nada](amenina).
-  * [Capi, capi, capivara](capivara).
- 
+É possível encontrar variações inspiradas no tangolomango das **Nove irmãs** como este aqui gravado pela Mariane Bigio (parceria e Milla Bigio e Diego Santos) que propõe um *"final feliz"*. 🙂 É o [tangolomango dos **coelinhos**](https://youtu.be/fqEPQe4aqmE). O livro **Chá das dez** escrito por Celso Sisto também se inspira nos tangolomangos, mas também se preocupa em proporcionar um *final feliz*. Também me aventurei nesta forma narrativa com o **Dez Capivaras**: *o tangolomango das capis*. 

@@ -16,8 +16,8 @@ const features = [
         Acesse aqui o <i>Guia</i> A Importância do Nome na Alfabetização.
       </>
     ),
-  }/*,
-  {
+  },
+  /*{
     title: 'Focus on What Matters',
     imageUrl: 'img/capa-workshop-ferramentas-facilitar-uso-o-nome-da-gente.jpg',
     link: '#',
@@ -26,17 +26,17 @@ const features = [
         Acesse aqui o <i>PowerBook</i> utilizado no workshop FERRAMENTAS ESPECIAIS PARA ONDG.
       </>
     ),
-  },
+  },*/
   {
-    title: 'A Importância do Nome na Alfabetização',
+    title: 'Atividades com LENGA-LENGAS',
     imageUrl: 'img/capa-powerbook-lenga-lenga.jpg',
     link: '/docs/lenga-lenga/apresentacao',
     description: (
       <>
-        Acesse aqui o <i>PowerBook</i> Proposta de atividades usando LENGA-LENGAS.
+        Acesse aqui o <i>Guia</i> Proposta de atividades usando LENGA-LENGAS.
       </>
     ),
-  },*/
+  },
 ];
 
 function Feature({imageUrl, title, description, link}) {
