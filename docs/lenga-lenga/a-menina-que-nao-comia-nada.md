@@ -7,7 +7,7 @@ import ReactPlayer from 'react-player/youtube'
 
 <center>
 
-![Capa do workshop A Importância do Nome na Alfabetização](./assets/a-menina-que-nao-comia-nada.png)
+![Capa do workshop A Importância do Nome na Alfabetização](./assets/a_menina_que_nao_comia_nada.jpg)
 
 </center>
 
