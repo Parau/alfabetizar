@@ -60,7 +60,7 @@ export const cardsData = [
   },
 ];
 
-
+<CueCards cardsData={cardsData} title="Slides do workshop" open={true}/>
 
 Antes de escrever este guia, lá em 2021, resolvi colocar a mão na massa e experimentar eu mesmo. Criei duas histórias — uma no estilo acumulativo e outra inspirada no tangolomango — para sentir na prática como funciona essa brincadeira com as palavras. Foi divertido, surpreendente e me ajudou a entender melhor cada detalhe do processo de criação.
 

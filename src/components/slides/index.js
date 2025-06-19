@@ -5,6 +5,7 @@ import 'swiper/css/effect-cards';
 import { EffectCards } from 'swiper/modules';
 import PropTypes from 'prop-types'; 
 import './index.css';
+import BrowserOnly from '@docusaurus/BrowserOnly';
 
 const FullscreenIcon = () => (
   <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor" opacity="0.3">
@@ -190,4 +191,13 @@ ToggleableCardSwiper.propTypes = {
   ).isRequired,
 };
 
-export default ToggleableCardSwiper;
+//export ToggleableCardSwiper;
+
+// Exporta o componente apenas para o browser
+export default function CardSwiperBrowserOnly(props) {
+  return (
+    <BrowserOnly>
+      {() => <ToggleableCardSwiper {...props} />}
+    </BrowserOnly>
+  );
+}
