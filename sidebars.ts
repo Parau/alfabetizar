@@ -44,7 +44,8 @@ const sidebars: SidebarsConfig = {
               'lenga-lenga/atividade1', 'lenga-lenga/atividade2', 
               'lenga-lenga/ei', 
               'lenga-lenga/rimas', 
-              'lenga-lenga/amenina', 'lenga-lenga/capivara'
+              'lenga-lenga/amenina', 'lenga-lenga/capivara',
+              'lenga-lenga/workshop'
              ],
 
     }

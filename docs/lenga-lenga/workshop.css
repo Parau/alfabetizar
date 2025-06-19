@@ -1,0 +1,15 @@
+.float-right {
+  float: right;
+  margin-left: 15px;
+  margin-bottom: 10px;
+  max-width: 40%; /* Ensures image doesn't take up too much space on large screens */
+}
+
+@media (max-width: 768px) { /* Adjust breakpoint as needed for smaller screens */
+  .float-right {
+    float: none;
+    display: block;
+    margin: 0 auto; /* Centers the image horizontally */
+    max-width: 100%; /* Makes the image responsive */
+  }
+}
