@@ -8,6 +8,11 @@ import './workshop.css';
 import ReactPlayer from 'react-player/youtube'
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import capaAtividadesLengaLenga from '@site/static/img/capa-powerbook-lenga-lenga.jpg';
+import casaSonolenta from '@site/static/img/lenga_lengas/acasasonolenta.jpg';
+import chaDasDez from '@site/static/img/lenga_lengas/chadasdez.webp';
+import dezCapis from '@site/static/img/lenga_lengas/dez_capivaras.jpg';
+import aMenina from '@site/static/img/lenga_lengas/a_menina_que_nao_comia_nada.jpg';
+
 
 Boas-vindas com o grupo **Tiqueqê** 👇.
 
@@ -16,8 +21,9 @@ Boas-vindas com o grupo **Tiqueqê** 👇.
 </center>
 
 <br />
+## Apresentação 
 
-export const cardsData = [
+export const cardsApresentacao = [
   {
     title: "Apresentação",
     description: `
@@ -62,10 +68,103 @@ export const cardsData = [
   },
 ];
 
+<CueCards cardsData={cardsApresentacao} title="Slides da apresentação" open={true}/>
 
-<CueCards cardsData={cardsData} title="Slides do workshop" open={true}/>
+## Lenga-legas
 
+export const cardsLengaLenga = [
+  {
+    title: "Lenga-lenga",
+    description: `
+    <ul style="text-align: left;">
+      <li>No dicionário, <i>lenga-lenga</i> costuma ser definida como algo longo, cansativo ou até mesmo uma enrolação.</li>
+      <li>Mas, na literatura infantil, <i>lenga-lenga</i> é um tipo de texto marcado por ritmo, rimas e repetições encantadoras.</li>
+    </ul>
+    `,
+    backgroundColor:"rgb(180, 172, 69)"
+  },
+  {
+    title: "Por que lenga-lengas?",
+    description: `
+    <ul style="text-align: left;">
+      <li>As repetições e rimas encantam as crianças menores, que conseguem prever o que vem a seguir e participar da leitura com entusiasmo.</li>
+      <li>Rimas e repetições facilitam a compreensão, fortalecem a memória e incentivam uma leitura mais autônoma e prazerosa.</li>
+    </ul>
+    `,
+    backgroundColor: "rgb(77, 226, 132)"
+  },
+  {
+    title: '<i>"Tipos"</i>',
+    description: `
+    <ul style="text-align: left;">
+      <li>Histórias circulares ou sem fim</li>
+      <li>Histórias com repetição</li>
+      <li>Histórias com acumulação</li>
+      <li>Tangolomangos</li>
+      <li>Mistos</li>
+      <li><i>Leia sobre eles neste guia.</i></li>
+    </ul>
+    `,
+    backgroundColor: "#ffc000"
+  },
+  {
+    title: "",
+    description: `<img src="${casaSonolenta}" />
+    `,
+    backgroundColor: "#82c0e7"
+  },
+  {
+    title: "",
+    description: `<img src="${chaDasDez}" />
+    `,
+    backgroundColor: "rgb(237, 240, 238)"
+  },
+  {
+    title: "",
+    description: `<img src="${dezCapis}" />
+    `,
+    backgroundColor: "#1e5542"
+  },
+  {
+    title: "",
+    description: `<img src="${aMenina}" />
+    `,
+    backgroundColor: "#1189ca"
+  },
+];
 
+<CueCards cardsData={cardsLengaLenga} title="Slides sobre as lenga-lengas" open={true}/>
+
+## Tangolomangos
+### Dez Capivaras
+| Nove &#8594; Oito | Oito &#8594; Sete         |
+|----------------------------------------------------------------------|-------------------------------|
+| **NOVE** CAPIVARAS CAMINHAVAM<br />NO PARQUE, APRECIANDO<br />O SOL DA MANHÃ. | **OITO** CAPIVARAS CAMINHAVAM<br />NO PARQUE, APRECIANDO<br />O SOL DA MANHÃ.  |
+| UMA SE ASSUSTOU<br />COM UM CICLISTA<br />MUITO **AFOITO**...<br />E ENTÃO,<br />SOBRARAM **OITO**. | UMA PENSOU:<br />“PRECISO ARRUMAR<br />MEU **TOPETE**!”<br />FOI EMBORA...<br />E ENTÃO, SOBRAM **SETE**. |
+
+### Nove irmãs
+| Nove &#8594; Oito | Oito &#8594; Sete         |
+|----------------------------------------------------------------------|-------------------------------|
+|Eram **nove** irmãs numa casa, <br />uma foi fazer **biscoito**.| Eram **oito** irmãs numa casa, <br />uma foi amolar **canivete**. |
+|Deu tangolomango nela <br />e das **nove** ficaram **oito** | Deu tangolomango nela <br />e das **oito** ficaram **sete**.  |
+
+### Toca dos coelhos
+| Nove &#8594; Oito | Oito &#8594; Sete         |
+|----------------------------------------------------------------------|-------------------------------|
+|E dos **nove** que ficaram,<br />Um saiu pulando **afoito**. | Desses **oito** coelhinhos,<br />Um foi aprender **trompete**.  |
+| Deu o tangolomango nele,<br />E dos **nove** restam **oito** | Deu o tangolomango nele,<br />Dos **oito** ficaram **sete** |
+
+### Chá das dez
+| Nove &#8594; Oito | Oito &#8594; Sete         |
+|----------------------------------------------------------------------|-------------------------------|
+| Eram **nove** amigas velhinhas,<br />Todas bem *penteadinhas*<br />Para o chá com **biscoito**. | Eram **oito** amigas velhinhas,<br />Todas bem *perfumadinhas*<br />Para o chá com **crepe suzete**.  |
+| Uma quebrou o pé<br />E, então, sobraram **oito**. | Uma ficou de cama<br />E, então, sobraram **sete**. |
+
+### Dez Sacizinhos
+| Nove &#8594; Oito | Oito &#8594; Sete         |
+|----------------------------------------------------------------------|-------------------------------|
+| Eram **nove**, os sacizinhos; | Eram **oito**, os sacizinhos;  |
+| Um comeu **biscoito**,<br />O biscoito estava velho,<br />E sobraram **oito**. | Um foi de **charrete**,<br />A charrete emborcou,<br />E sobraram **sete**. |
 
 Antes de escrever este guia, lá em 2021, resolvi colocar a mão na massa e experimentar eu mesmo. Criei duas histórias — uma no estilo acumulativo e outra inspirada no tangolomango — para sentir na prática como funciona essa brincadeira com as palavras. Foi divertido, surpreendente e me ajudou a entender melhor cada detalhe do processo de criação.
 

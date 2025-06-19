@@ -86,9 +86,37 @@ Antes de iniciar o projeto, você pode realizar a [Semana da lenga-lenga](ativid
      * "Chá das dez", de Celso Sisto.
 
 Após a leitura, observe com os alunos as diferentes estruturas presentes nos textos. Você pode sugerir que, ao escreverem suas próprias lenga-lengas, escolham um dos modelos apresentados como inspiração.
-*****************************
-INCLUIR AS ESTRUTURAS AQUI
-******************************
+
+#### Dez Capivaras
+| Nove &#8594; Oito | Oito &#8594; Sete         |
+|----------------------------------------------------------------------|-------------------------------|
+| **NOVE** CAPIVARAS CAMINHAVAM<br />NO PARQUE, APRECIANDO<br />O SOL DA MANHÃ. | **OITO** CAPIVARAS CAMINHAVAM<br />NO PARQUE, APRECIANDO<br />O SOL DA MANHÃ.  |
+| UMA SE ASSUSTOU<br />COM UM CICLISTA<br />MUITO **AFOITO**...<br />E ENTÃO,<br />SOBRARAM **OITO**. | UMA PENSOU:<br />“PRECISO ARRUMAR<br />MEU **TOPETE**!”<br />FOI EMBORA...<br />E ENTÃO, SOBRAM **SETE**. |
+
+#### Nove irmãs
+| Nove &#8594; Oito | Oito &#8594; Sete         |
+|----------------------------------------------------------------------|-------------------------------|
+|Eram **nove** irmãs numa casa, <br />uma foi fazer **biscoito**.| Eram **oito** irmãs numa casa, <br />uma foi amolar **canivete**. |
+|Deu tangolomango nela <br />e das **nove** ficaram **oito** | Deu tangolomango nela <br />e das **oito** ficaram **sete**.  |
+
+#### Toca dos coelhos
+| Nove &#8594; Oito | Oito &#8594; Sete         |
+|----------------------------------------------------------------------|-------------------------------|
+|E dos **nove** que ficaram,<br />Um saiu pulando **afoito**. | Desses **oito** coelhinhos,<br />Um foi aprender **trompete**.  |
+| Deu o tangolomango nele,<br />E dos **nove** restam **oito** | Deu o tangolomango nele,<br />Dos **oito** ficaram **sete** |
+
+#### Chá das dez
+| Nove &#8594; Oito | Oito &#8594; Sete         |
+|----------------------------------------------------------------------|-------------------------------|
+| Eram **nove** amigas velhinhas,<br />Todas bem *penteadinhas*<br />Para o chá com **biscoito**. | Eram **oito** amigas velhinhas,<br />Todas bem *perfumadinhas*<br />Para o chá com **crepe suzete**.  |
+| Uma quebrou o pé<br />E, então, sobraram **oito**. | Uma ficou de cama<br />E, então, sobraram **sete**. |
+
+#### Dez Sacizinhos
+| Nove &#8594; Oito | Oito &#8594; Sete         |
+|----------------------------------------------------------------------|-------------------------------|
+| Eram **nove**, os sacizinhos; | Eram **oito**, os sacizinhos;  |
+| Um comeu **biscoito**,<br />O biscoito estava velho,<br />E sobraram **oito**. | Um foi de **charrete**,<br />A charrete emborcou,<br />E sobraram **sete**. |
+
 ### Formação de grupos
 Para que o projeto favoreça o aprendizado de todos os alunos, é importante organizar os momentos de produção de texto de maneira estratégica. Uma das formas de fazer isso é por meio da formação de grupos de trabalho, respeitando o estágio de desenvolvimento da escrita em que cada criança se encontra. Essa organização permite que as interações entre os colegas ampliem as possibilidades de aprendizagem e que o você acompanhe mais de perto o progresso individual e coletivo.
 
@@ -107,13 +135,9 @@ Durante essa fase, cada grupo deve tomar três decisões importantes:
    Os alunos escolhem um contexto que dará unidade e sentido à lenga-lenga. Pode ser uma cena do cotidiano, uma situação engraçada, uma confusão inesperada ou até algo fantástico — como uma casa maluca, uma festa de animais ou um piquenique desastroso. Essa escolha ajuda a criar um fio narrativo que ligará os versos e sustentará a repetição rítmica do texto.
 1. **Os dez elementos** <br />
    Seguindo a estrutura de um Tangolomango, cada grupo deve definir o elemento que será repetido ao longo da lenga-lenga — como “dez gatos”, “dez monstros”, “dez amigos”, entre outros. A sequência seguirá uma contagem regressiva, partindo de 10 até 1 (ou até zero/nenhum). Você também pode orientá-los a se inspirar em uma das estruturas exploradas no tópico [Leitura e Exploração de Modelos](atividade2#leitura-e-exploração-de-modelos). 
-1. O escriba do grupo
+1. **O escriba do grupo** <br />
    O grupo também deve escolher um aluno que ficará responsável por organizar a versão final do texto que será entregue a você. É importante deixar claro que todos os integrantes devem escrever e participar ativamente da criação do texto — a função do escriba não é escrever sozinho, mas sim compilar, registrar e revisar, com apoio dos colegas, a versão coletiva final. Essa função valoriza a responsabilidade e a atenção à clareza do texto, além de dar visibilidade ao processo de autoria coletiva.
 Ao reservar esse momento para que os grupos façam essas escolhas com calma e em diálogo, você promove uma escrita mais planejada, coesa e conectada ao gênero textual. Além disso, essa etapa favorece a autonomia dos alunos, fortalece a escuta e a cooperação, e prepara o caminho para uma produção textual rica em criatividade e intenção comunicativa.
-
-Com base nas suas observações e orientações, aqui está o detalhamento enriquecido do passo **“Durante a escrita promova intervenções pedagógicas”**, em forma de texto corrido, com foco pedagógico, fluidez e intencionalidade didática:
-
----
 
 ### Durante a escrita, promova intervenções pedagógicas
 À medida que os grupos iniciam a produção de seus *tangolomangos*, o seu papel ganha um aspecto ainda mais ativo: **o de mediador atento e provocador de reflexões**. Essa etapa exige presença constante e escuta sensível. É o momento de circular entre os grupos, **acompanhar o desenvolvimento da proposta e fazer intervenções pedagógicas pontuais**, com o objetivo de ampliar o repertório, aprofundar a reflexão sobre a escrita e garantir a aproximação com as características do gênero textual.
@@ -138,10 +162,6 @@ Ao longo da escrita, você também pode selecionar trechos de textos em andament
 Além das intervenções nos grupos, é possível propor **discussões coletivas** em momentos estratégicos, como quando surgem dúvidas sobre a grafia de uma palavra ou quando diferentes grupos escreveram de formas distintas o mesmo vocábulo. Nessas situações, a sala pode debater coletivamente as escolhas, compartilhar estratégias e buscar fontes de informação — como o quadro de palavras, os livros da sala ou até mesmo a leitura oral — para resolver a questão.
 
 Nesse circuito de intervenções, o professor é presença constante e intencional: **observa, pergunta, escuta, desafia e apoia**. É esse trabalho, invisível à primeira vista, que faz toda a diferença — conduzindo os alunos, com delicadeza e firmeza, no caminho da autoria e do letramento.
-
-Claro! Aqui está o detalhamento do passo **“Depois da escrita”**, incorporando seus comentários e mantendo um tom didático, fluido e alinhado à proposta pedagógica do projeto:
-
----
 
 ### Depois da escrita
 Com os textos coletivos finalizados, inicia-se uma etapa igualmente rica: a **revisão e finalização das produções**, momento em que os alunos passam a olhar para suas próprias criações com um novo olhar — mais crítico, mais apurado, mais atento à clareza e à coerência do que foi escrito. Aqui, o foco se desloca da produção para o aprimoramento.
