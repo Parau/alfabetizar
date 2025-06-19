@@ -168,6 +168,18 @@ export const cardsLengaLenga = [
 
 ## Vamos escrever?
 
+Veja o resultado de uma das produções feitas pelos alunos da professora Mansani.
+<center>
+<ReactPlayer url='https://youtu.be/WevAHZ2Mf_A' controls={true} width='100%' />
+</center>
+<br />
+Oficina de tangolomngos no farol do saber Khalil Gibran.
+
+<center>
+<ReactPlayer url='https://youtu.be/Gw0EFDA4YFo' controls={true} width='100%' />
+</center>
+<br />
+
 export const cardsVamosEscrever = [
   {
     title: "Formação dos grupos",
@@ -189,6 +201,17 @@ export const cardsVamosEscrever = [
     </ul>
     `,
     backgroundColor: "rgb(33, 169, 237)"
+  },
+  {
+    title: "Durante a escrita...",
+    description: `
+    <ul style="text-align: left;">
+      <li>Dicionário: grafia das palavras.</li>
+      <li>Rimas.</li>
+      <li>Conclusão: Número zero, nenhum ou mesmo algo rimando com fim.</li>
+    </ul>
+    `,
+    backgroundColor: "rgb(255, 151, 32)"
   },
 ];
 

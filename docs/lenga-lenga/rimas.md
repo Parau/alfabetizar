@@ -29,6 +29,7 @@ Para ajudar os alunos na escolhas das rimas você pode sugerir o uso do dicioná
  - Caminhonete
  - Canivete
  - Carpete
+ - Charrete
  - Chiclete
  - Complete
  - Cotonete
@@ -44,13 +45,14 @@ Para ajudar os alunos na escolhas das rimas você pode sugerir o uso do dicioná
  - Tapete
  - Tibete
  - Topete
- - Trumpete
+ - Trompete
 
 ### SEIS
  - Afáveis
  - Amáveis
  - Leis
  - Reis
+ - Urubus-reis
  - [rimas com três](#três)
 
 ### CINCO
@@ -83,6 +85,7 @@ Para ajudar os alunos na escolhas das rimas você pode sugerir o uso do dicioná
  - Freguês
  - Inês
  - Mês
+ - Talvez
  - Vocês
  - Xadrez
 
@@ -95,6 +98,7 @@ Para ajudar os alunos na escolhas das rimas você pode sugerir o uso do dicioná
  - Cruas
  - Falcatruas
  - Flutuas
+ - Luas
  - Peruas
  - Ruas
  - Unhas
@@ -103,7 +107,6 @@ Para ajudar os alunos na escolhas das rimas você pode sugerir o uso do dicioná
  - Atum
  - Comum
  - Incomum
- - Jejum
  - Jejum
  - Kabum
  - Pum
@@ -117,6 +120,7 @@ Para ajudar os alunos na escolhas das rimas você pode sugerir o uso do dicioná
  - Nenhuma
  - Perfuma
  - Pluma
+ - Turma
 
 ### ZERO
  - Acelero

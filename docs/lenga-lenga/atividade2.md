@@ -26,7 +26,7 @@ Conheça também a experiência da professora Mara Elizabeth Mansani no uso das 
 
 <br />
 :::caution &nbsp;Importante
-Apresentamos sugestões e direcionamentos. É importante que você dê espaço para que os alunos tragam as **suas ideias**. Caso algum grupo esteja com dificuldade em prosseguir você pode promover a **troca de ideias** entre grupos. Se mesmo assim houver alguma dificuldade em prosseguir, apresente aos alunos sempre **duas ou mais** alternativas.  
+A seguir, apresento uma sugestão de estrutura que pode apoiar a organização do projeto em sala de aula. No entanto, é importante lembrar que cada turma é única. Você pode — e deve — adaptar essa proposta com base em seu conhecimento, nas características dos alunos e no contexto em que atua. Vale também conversar com a turma, escutar suas ideias e, juntos, definir a melhor estratégia para dar vida ao projeto de forma significativa e participativa.
 :::
 
 ## Estrutura
@@ -215,68 +215,3 @@ Para fechar o projeto com chave de ouro, organize um **lançamento oficial dos l
 Durante o lançamento, permita que os grupos apresentem suas produções, contem como criaram suas histórias ou leiam trechos em voz alta. Esse espaço de compartilhamento reforça o vínculo com a leitura, a oralidade e o senso de autoria.
 
 Finalizar o projeto com uma publicação visível e um momento de celebração faz com que os alunos compreendam a escrita como **uma ação social real**, que ultrapassa os limites da sala de aula. Eles não apenas aprenderam a escrever — **eles escreveram algo que será lido por outros**. E essa é uma das experiências mais potentes e transformadoras na trajetória de alfabetização. **E talvez esse seja um dos maiores convites à leitura** — quando a criança entende que os livros também falam dela, e que ela também pode falar com os livros.
-
-## Etapas
-Sugestão das etapas da atividade.
-
-### Etapa 0 - Conhecer
-Nesta etapa da atividade as crianças se familiarizam com as lenga-lengas. Por exemplo, A velha a **fiar**, A menina que **não comia nada**, A casa **sonolenta**, entre [outros textos](atividade1#livros).
-
-Encerre o trabalho das leituras com o tangolomango **Capi, Capi, Capivara**. Convide os alunos a produzirem o **seu próprio** tangolomango.
-
-Apresente o vídeo do autor Parahuari Branco contando como foi o processo de criação do livro A MENINA QUE NÃO COMIA NADA. A analogia com os "games" é uma forma divertida de trabalhar o assunto com os alunos e prepará-los para o trabalho de escrita.
-
-<center>
-<ReactPlayer url='https://youtu.be/f3pJfdS-I1Y' controls={true} width='100%' />
-</center>
-
-### Etapa 1 - Escrever
-Forme os grupos. Um critério pode ser escolher para o mesmo grupo alunos que estejam na mesma hipótese de escrita. Contudo, vale a pena cada grupo ter um aluno que tenha uma habilidade de escrita mais desenvolvida. Então, se isso for possível, este aluno pode ser o *escriba* do grupo.
-
-Primeiro os alunos devem escolher a **situação** ou cenário em que se desenvolve o tangolomango. A escolha pode ser por exemplo, uma escola, casa, ônibus, bairro, floresta, fazenda... 
-
-Em segundo lugar fica a escolha do(s) personagens. 
-
-Personagens escolhidos, vamos para as rimas. Os alunos escrevem o que aconteceu e qual palavra vai rimar com o respectivo número do tangolomango.
-
-:::tip &nbsp;Dica
-Para ajudar os alunos nas escolhas das rimas você pode sugerir o uso do dicionário. Pesquisas na Internet do tipo "palavras terminadas em" podem ajudar caso não surja nenhuma ideia. Montei [esta página](rimas) com alguns exemplos, mas é importante que você deixe que as rimas apareçam das interações entre alunos, de pesquisas na internet e da análise do significado das palavras no dicionário.
-:::
-
-Por fim, um fechamento. Pode ser o número **zero**, **nenhum** ou mesmo algo rimando com **fim**.
-
-Nesta etapa o que é importante é a criação e estruturação do texto. Então, não se preocupe com a ortografia. Previlegie uma escrita espontânea. A próxima etapa é a que se dedicará ao aperfeiçoamento e revisão do texto.
-
-Veja algumas sugestões da professora Mara Elizabeth Mansani. 
-
-<center>
-<ReactPlayer url='https://youtu.be/3L2ipnn9qaY' controls={true} width='100%' />
-</center>
-
-### Etapa 2 - Revisar
-Se você tiver um projetor, tire fotos e projete alguns textos para que toda a turma possa colaborar. Se não tiver um projetor, copie algumas produções no quadro. Nesta etapa o dicionário é uma ferramenta importante para ajudar a conferência da grafia.
-
-Exemplos de perguntas que você pode fazer durante esta etapa de revisão.
- * Esta frase está clara? Vocês conseguem entender?
- * Alguma sugestão de melhoria aqui?
- * Outra palavra que poderia se usada aqui?
- * Vamos conferir no dicionário como esta palavra é escrita?
-
-### Etapa 3 - Editar
-Esta é uma etapa em que o trabalho é feito somente por você. 👊 
-
-Copie o texto dos alunos para um editor de textos (por exemplo [Word](https://word.new) ou [Docs](https://docs.new)). Corrija palavras e faça pequenos ajustes. Ao final do processo você vai imprimir os textos para que possam ser usados pelos grupos durante a próxima aula.
-
-:::tip &nbsp;Dica
-Aproveite o trabalho de edição e explique para os alunos que este processo de revisão e edição acontece normalmente nos livros. Apresenta aos grupos as edições que você promoveu nos textos.
-:::
-
-### Etapa 4 - Ilustração 
-Os grupos recebem os seus textos impressos. Eles devem criar as ilustrações e depois colar o texto junto delas. É como se estivessem ilustrando e diagramando um livro.
-
-## Exemplo
-Veja o resultado de uma das produções feitas pelos alunos da professora Mansani.
-
-<center>
-<ReactPlayer url='https://youtu.be/WevAHZ2Mf_A' controls={true} width='100%' />
-</center>
