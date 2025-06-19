@@ -117,6 +117,16 @@ Após a leitura, observe com os alunos as diferentes estruturas presentes nos te
 | Eram **nove**, os sacizinhos; | Eram **oito**, os sacizinhos;  |
 | Um comeu **biscoito**,<br />O biscoito estava velho,<br />E sobraram **oito**. | Um foi de **charrete**,<br />A charrete emborcou,<br />E sobraram **sete**. |
 
+Além da leitura de livros no formato de lenga-lenga e análise da sua estrutura, essa etapa também pode ser uma excelente oportunidade para apresentar aos alunos as etapas de produção de um livro, ampliando sua compreensão sobre o processo que envolve a escrita autoral.
+
+Para isso, você pode utilizar um vídeo que **mostra os bastidores da criação do livro** *A Menina que Não Comia Nada*, onde explico de forma leve e acessível como nasce um livro — desde a ideia inicial até a publicação. No vídeo, comparo esse percurso ao funcionamento de um game, com fases, desafios e conquistas, o que torna o conteúdo ainda mais divertido e próximo do universo infantil.
+
+Essa atividade ajuda os alunos a entenderem que escrever um livro é um processo em várias etapas: imaginar, planejar, escrever, revisar, ilustrar, diagramar e, por fim, publicar. Ao conhecer esse caminho desde o início, as crianças se sentem mais preparadas para viver a experiência de autoria, sabendo que o que elas produzirão também seguirá um percurso parecido, com atenção aos detalhes e muitas possibilidades de criação.
+
+<center>
+<ReactPlayer url='https://youtu.be/f3pJfdS-I1Y' controls={true} width='100%' />
+</center>
+
 ### Formação de grupos
 Para que o projeto favoreça o aprendizado de todos os alunos, é importante organizar os momentos de produção de texto de maneira estratégica. Uma das formas de fazer isso é por meio da formação de grupos de trabalho, respeitando o estágio de desenvolvimento da escrita em que cada criança se encontra. Essa organização permite que as interações entre os colegas ampliem as possibilidades de aprendizagem e que o você acompanhe mais de perto o progresso individual e coletivo.
 
@@ -157,9 +167,17 @@ Essas perguntas não apenas promovem a reflexão sobre o **sistema de escrita al
 
 Essa mediação desperta nos alunos um novo olhar para a própria produção. Muitas vezes, as reflexões passam a surgir espontaneamente: eles começam a sugerir rimas uns para os outros, revisar trechos lidos em voz alta, levantar dúvidas, negociar soluções e até mesmo corrigir escritas com base na escuta e nas discussões em grupo. Frases como “Vamos ler de novo?”, “O que rima com dois?” ou “Está faltando alguma coisa aqui!” tornam-se parte natural da dinâmica coletiva.
 
+:::tip &nbsp;Dica
+Para ajudar os alunos nas escolhas das rimas você pode sugerir o uso do dicionário. Pesquisas na Internet do tipo "palavras terminadas em" podem ajudar caso não surja nenhuma ideia. Montei [esta página](rimas) com alguns exemplos, mas é importante que você deixe que as rimas apareçam das interações entre alunos, de pesquisas na internet e da análise do significado das palavras no dicionário.
+:::
+
 Ao longo da escrita, você também pode selecionar trechos de textos em andamento e **ler em voz alta para a turma**. Essa prática tem dois efeitos potentes: estimula os grupos que ainda estão com dificuldade a retomarem o trabalho com mais entusiasmo e valoriza as ideias criativas dos colegas, o que promove admiração, inspiração e até uma dose saudável de desafio entre os grupos.
 
 Além das intervenções nos grupos, é possível propor **discussões coletivas** em momentos estratégicos, como quando surgem dúvidas sobre a grafia de uma palavra ou quando diferentes grupos escreveram de formas distintas o mesmo vocábulo. Nessas situações, a sala pode debater coletivamente as escolhas, compartilhar estratégias e buscar fontes de informação — como o quadro de palavras, os livros da sala ou até mesmo a leitura oral — para resolver a questão.
+
+:::tip &nbsp;Dica
+Nesta etapa, o foco principal é a criação do texto. Não se preocupe excessivamente com a ortografia. Priorize uma escrita espontânea — o momento de revisar e aperfeiçoar virá na próxima etapa.
+:::
 
 Nesse circuito de intervenções, o professor é presença constante e intencional: **observa, pergunta, escuta, desafia e apoia**. É esse trabalho, invisível à primeira vista, que faz toda a diferença — conduzindo os alunos, com delicadeza e firmeza, no caminho da autoria e do letramento.
 
