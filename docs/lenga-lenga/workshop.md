@@ -52,7 +52,12 @@ export const cardsData = [
     `,
     backgroundColor: "#a29bfe"
   },
-
+  {
+    title: "Vamos começar??",
+    description: `<img src="../../img/capa-powerbook-lenga-lenga.jpg">
+    `,
+    backgroundColor: "#ffc000"
+  },
 ];
 
 <CueCards cardsData={cardsData} title="Slides do workshop" open={true}/>

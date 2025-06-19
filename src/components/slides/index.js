@@ -191,13 +191,13 @@ ToggleableCardSwiper.propTypes = {
   ).isRequired,
 };
 
-export default ToggleableCardSwiper;
-
 // Exporta o componente apenas para o browser
 //Esta segunda opção foi criada porque no modo yarn start estava funcionando os slides 
 //mas quando mandei para o github pages não estava funcionando. Estranho isso porque no 
 //material do ChatGPT isso estava funcionando sem o browseronly.
-/*
+
+//export default ToggleableCardSwiper;
+
 export default function CardSwiperBrowserOnly(props) {
   return (
     <BrowserOnly>
@@ -205,4 +205,3 @@ export default function CardSwiperBrowserOnly(props) {
     </BrowserOnly>
   );
 }
-  */
