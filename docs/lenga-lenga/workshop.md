@@ -6,6 +6,8 @@ sidebar_label: Workshop
 import CueCards from '@site/src/components/slides/CueCards';
 import './workshop.css';
 import ReactPlayer from 'react-player/youtube'
+import useBaseUrl from '@docusaurus/useBaseUrl';
+import minhaImagem from '@site/static/img/capa-powerbook-lenga-lenga.jpg';
 
 Boas-vindas com o grupo **Tiqueqê** 👇.
 
@@ -54,13 +56,16 @@ export const cardsData = [
   },
   {
     title: "Vamos começar??",
-    description: `<img src="../../img/capa-powerbook-lenga-lenga.jpg">
+    description: `<img src="${minhaImagem}" />
     `,
     backgroundColor: "#ffc000"
   },
 ];
 
+
 <CueCards cardsData={cardsData} title="Slides do workshop" open={true}/>
+
+
 
 Antes de escrever este guia, lá em 2021, resolvi colocar a mão na massa e experimentar eu mesmo. Criei duas histórias — uma no estilo acumulativo e outra inspirada no tangolomango — para sentir na prática como funciona essa brincadeira com as palavras. Foi divertido, surpreendente e me ajudou a entender melhor cada detalhe do processo de criação.
 
